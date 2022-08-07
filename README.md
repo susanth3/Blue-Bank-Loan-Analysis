@@ -9,3 +9,5 @@ Using Python and Tableau, they’d like to see a report of borrowers who may hav
 issues paying back the loan.
 
 Date File : loan_data_json.json
+
+Tableau Dashboard : https://public.tableau.com/views/BlueBankLoanAnalysis_16598970846320/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
